@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TableToAscii": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Patrik\\Desktop\\test.html\" --output \"C:\\Users\\Patrik\\Desktop\\test.txt\" --expand"
+    }
+  }
+}
