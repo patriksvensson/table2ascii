@@ -23,7 +23,7 @@ namespace TableToAscii
             [Description("The width of the table")]
             public int Width { get; set; }
 
-            [CommandOption("--column <WIDTHS>")]
+            [CommandOption("-c|--column <WIDTHS>")]
             [Description("The width of the columns")]
             public int[] Columns { get; set; }
 
