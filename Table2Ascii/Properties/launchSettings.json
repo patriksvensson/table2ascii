@@ -2,7 +2,7 @@
   "profiles": {
     "TableToAscii": {
       "commandName": "Project",
-      "commandLineArgs": "\"C:\\Users\\Patrik\\Desktop\\test.html\" --output \"C:\\Users\\Patrik\\Desktop\\test.txt\" --expand"
+      "commandLineArgs": "\"C:\\Users\\Patrik\\Desktop\\test.html\" --output \"C:\\Users\\Patrik\\Desktop\\test.txt\" --column 5 --column 25 --column 5"
     }
   }
 }
